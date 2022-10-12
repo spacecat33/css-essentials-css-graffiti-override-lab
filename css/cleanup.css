@@ -26,3 +26,55 @@ body #wall #tag-2  {
 body div#wall #tag-3.slick {
     display: none;
 }
+
+/* Or
+#wall .tag-1 {
+  display: none;
+}
+
+div#wall #tag-2 {
+  display: none;
+}
+
+div#wall #tag-3.slick.wicked {
+  display: none;
+}
+
+div .parent {
+  display: none;
+}
+
+div #wall #tag-3  {
+  display: none;
+} 
+
+
+or:
+
+#wall .tag-1 {
+    display: none !important;
+}
+
+#wall #tag-2 {
+    display: none !important;
+}
+
+#wall #tag-3 {
+    display: none !important;
+}
+
+#wall #tag-4 {
+    display: none !important;
+}
+
+#wall #tag-5 {
+    display: none !important;
+}
+
+#wall #tag-6 {
+    display: none !important;
+}
+
+#wall #tag-7 {
+    display: none !important;
+}*/
