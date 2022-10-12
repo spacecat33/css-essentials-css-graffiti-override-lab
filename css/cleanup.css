@@ -1,4 +1,7 @@
-/* write your override styles here */
+/* write your override styles here 
+NOTE: Do not use the CSS !important value! It is considered a 
+bad practice and should be used sparingly, in very specific edge-cases. */
+
 body #wall .tag-1 {
     display: none;
 }
@@ -48,33 +51,4 @@ div #wall #tag-3  {
   display: none;
 } 
 
-
-or:
-
-#wall .tag-1 {
-    display: none !important;
-}
-
-#wall #tag-2 {
-    display: none !important;
-}
-
-#wall #tag-3 {
-    display: none !important;
-}
-
-#wall #tag-4 {
-    display: none !important;
-}
-
-#wall #tag-5 {
-    display: none !important;
-}
-
-#wall #tag-6 {
-    display: none !important;
-}
-
-#wall #tag-7 {
-    display: none !important;
-}*/
+*/
